@@ -1,0 +1,24 @@
+.left-item {
+  width: 98px;
+  height: 36px;
+  display: flex;
+  margin: 4px;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  align-items: center;
+}
+
+.left-item:hover {
+  background-image: url(https://file.qingflow.com/assets/widget/cover.png);
+  background-size:  98px 36px;
+}
+.iconfont{
+  margin-left: 10px;
+  margin-right: 8px;
+  color: #aaaeb3;
+}
+.item-text{
+  text-align: left;
+}
