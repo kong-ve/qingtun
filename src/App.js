@@ -6,7 +6,6 @@ import Demo from './demo'
 function App() {
   return (
     <div>
-      <First/>
       <Demo/>
     </div>
   );
